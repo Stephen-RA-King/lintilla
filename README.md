@@ -1,5 +1,7 @@
 # lintilla
 
+---
+
 > Short blurb about what your product does.
 
 [![PyPI][pypi-image]][pypi-url]
@@ -9,12 +11,12 @@
 [![Format][format-image]][pypi-url]
 [![tests][tests-image]][tests-url]
 [![Codecov][codecov-image]][codecov-url]
+[![pre-commit][pre-commit-image]][pre-commit-url]
+[![pre-commit.ci status][pre-commit.ci-image]][pre-commit.ci-url]
 [![CodeFactor][codefactor-image]][codefactor-url]
 [![Codeclimate][codeclimate-image]][codeclimate-url]
 [![CodeQl][codeql-image]][codeql-url]
 [![readthedocs][readthedocs-image]][readthedocs-url]
-[![pre-commit][pre-commit-image]][pre-commit-url]
-[![pre-commit.ci status][pre-commit.ci-image]][pre-commit.ci-url]
 [![Imports: isort][isort-image]][isort-url]
 [![Code style: black][black-image]][black-url]
 [![Checked with mypy][mypy-image]][mypy-url]
@@ -30,6 +32,8 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
+---
+
 OS X & Linux:
 
 ```sh
@@ -44,11 +48,15 @@ pip install lintilla
 
 ## Usage example
 
+---
+
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
+
+---
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
@@ -58,11 +66,20 @@ pip install --editable lintilla
 
 ## Documentation
 
-### - [**Read the Docs**](https://lintilla.readthedocs.io/en/latest/)
+---
 
-### - [**Wiki**](https://github.com/Stephen-RA-King/lintilla/wiki)
+[**Read the Docs**](https://lintilla.readthedocs.io/en/latest/?)
+
+-   [**Example Usage**](https://pynball.readthedocs.io/en/latest/example.html)
+-   [**Credits**](https://lintilla.readthedocs.io/en/latest/example.html)
+-   [**Changelog**](https://lintilla.readthedocs.io/en/latest/changelog.html)
+-   [**API Reference**](https://lintilla.readthedocs.io/en/latest/autoapi/index.html)
+
+-   [**Wiki**][wiki]
 
 ## Meta
+
+---
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/sr-king)
 [![](assets/github.png)](https://github.com/Stephen-RA-King)
@@ -70,11 +87,9 @@ pip install --editable lintilla
 [![](assets/www.png)](https://www.justpython.tech)
 [![](assets/email.png)](mailto:stephen.ra.king@gmail.com)
 
-Stephen R A King : stephen.ra.king@gmail.com
+Stephen R A King : sking.github@gmail.com
 
-Distributed under the MIT license. See [license][license-url] for more information.
-
-[https://github.com/Stephen-RA-King/lintilla](https://github.com/Stephen-RA-King/lintilla)
+Distributed under the MIT license. See [![][license-image]][license-url] for more information.
 
 Created with Cookiecutter template: [**cc_template**][cc_template-url] version 1.2.1
 
@@ -109,7 +124,7 @@ Created with Cookiecutter template: [**cc_template**][cc_template-url] version 1
 [lgtm-quality-image]: https://img.shields.io/lgtm/grade/python/g/Stephen-RA-King/lintilla.svg?logo=lgtm&logoWidth=18
 [lgtm-quality-url]: https://lgtm.com/projects/g/Stephen-RA-King/lintilla/context:python
 [license-image]: https://img.shields.io/pypi/l/lintilla
-[license-url]: https://github.com/Stephen-RA-King/lintilla/blob/main/license
+[license-url]: https://github.com/Stephen-RA-King/lintilla/blob/main/LICENSE
 [mypy-image]: http://www.mypy-lang.org/static/mypy_badge.svg
 [mypy-url]: http://mypy-lang.org/
 [pre-commit-image]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
