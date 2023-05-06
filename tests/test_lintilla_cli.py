@@ -27,7 +27,7 @@ def test_author_verbose() -> None:
     assert result.exit_code == 0
     assert (
         result.output == "Author name: Stephen R A King\n"
-        "Author eMail: stephen.ra.king@gmail.com\n"
+        "Author eMail: sking.github@gmail.com\n"
     )
 
 

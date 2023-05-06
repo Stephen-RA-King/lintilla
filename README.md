@@ -75,7 +75,7 @@ pip install --editable lintilla
 -   [**Changelog**](https://lintilla.readthedocs.io/en/latest/changelog.html)
 -   [**API Reference**](https://lintilla.readthedocs.io/en/latest/autoapi/index.html)
 
--   [**Wiki**][wiki]
+[**Wiki**][wiki]
 
 ## Meta
 
@@ -85,13 +85,13 @@ pip install --editable lintilla
 [![](assets/github.png)](https://github.com/Stephen-RA-King)
 [![](assets/pypi.png)](https://pypi.org/project/lintilla)
 [![](assets/www.png)](https://www.justpython.tech)
-[![](assets/email.png)](mailto:stephen.ra.king@gmail.com)
+[![](assets/email.png)](mailto:sking.github@gmail.com)
 
 Stephen R A King : sking.github@gmail.com
 
 Distributed under the MIT license. See [![][license-image]][license-url] for more information.
 
-Created with Cookiecutter template: [**cc_template**][cc_template-url] version 1.2.1
+Created with Cookiecutter template: [**pydough**][pydough-url] version 1.2.1
 
 <!-- Markdown link & img dfn's -->
 
@@ -99,7 +99,7 @@ Created with Cookiecutter template: [**cc_template**][cc_template-url] version 1
 [bandit-url]: https://github.com/PyCQA/bandit
 [black-image]: https://img.shields.io/badge/code%20style-black-000000.svg
 [black-url]: https://github.com/psf/black
-[cc_template-url]: https://github.com/Stephen-RA-King/cc_template
+[pydough-url]: https://github.com/Stephen-RA-King/pydough
 [codeclimate-image]: https://api.codeclimate.com/v1/badges/7fc352185512a1dab75d/maintainability
 [codeclimate-url]: https://codeclimate.com/github/Stephen-RA-King/lintilla/maintainability
 [codecov-image]: https://codecov.io/gh/Stephen-RA-King/lintilla/branch/main/graph/badge.svg

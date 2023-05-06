@@ -17,7 +17,7 @@ def author(verbose: str) -> None:
     """Returns details about the Author."""
     click.echo("Author name: Stephen R A King")
     if verbose:
-        click.echo("Author eMail: stephen.ra.king@gmail.com")
+        click.echo("Author eMail: sking.github@gmail.com")
 
 
 if __name__ == "__main__":
