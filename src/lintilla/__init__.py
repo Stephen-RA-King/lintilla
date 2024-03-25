@@ -1,4 +1,5 @@
 """Top-level package for lintilla."""
+
 # Core Library modules
 import logging.config
 from importlib.resources import as_file, files
